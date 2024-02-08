@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Header](./github-image-name.png)
+![Header](./https://raw.githubusercontent.com/Ashutosh-pixel/Ashutosh-pixel/main/github-header-image.png)
