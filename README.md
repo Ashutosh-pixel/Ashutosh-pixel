@@ -51,9 +51,9 @@
 * Event-driven updates using SSE
 * Scalable file handling using S3 + Lambda
 
-🔗 Frontend Repo: *[Add your link]*
-🔗 Backend Repo: *[Add your link]*
-🌐 Live Demo: *[Add your deployed link]*
+🔗 Frontend Repo: https://github.com/Ashutosh-pixel/upbox-client.git
+🔗 Backend Repo: https://github.com/Ashutosh-pixel/upbox-backend.git
+🌐 Live Demo: https://upboxdrive.online/login
 
 ## 📊 What I'm Currently Learning
 
@@ -65,8 +65,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-pixel&theme=github_dark" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashutosh-pixel&theme=github_dark" alt="Languages" />
-<img src="https://streak-stats.demolab.com?user=Ashutosh-pixel&theme=dark&hide_border=true" alt="GitHub Streak" />
-
 
 ## 📫 Connect With Me
 
