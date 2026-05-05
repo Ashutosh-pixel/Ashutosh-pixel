@@ -51,9 +51,11 @@
 * Event-driven updates using SSE
 * Scalable file handling using S3 + Lambda
 
-🔗 Frontend Repo: https://github.com/Ashutosh-pixel/upbox-client.git
-🔗 Backend Repo: https://github.com/Ashutosh-pixel/upbox-backend.git
-🌐 Live Demo: https://upboxdrive.online/login
+### 🔗 Project Links
+
+- 🌐 Live Demo: [UpBox Drive](https://upboxdrive.online/login)
+- 💻 Frontend Repository: [upbox-client](https://github.com/Ashutosh-pixel/upbox-client.git)
+- ⚙️ Backend Repository: [upbox-backend](https://github.com/Ashutosh-pixel/upbox-backend.git)
 
 ## 📊 What I'm Currently Learning
 
