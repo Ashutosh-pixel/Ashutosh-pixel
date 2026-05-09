@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Full-Stack Developer (2+ year of exp)
+# Hi there 👋 I'm a Full-Stack Developer (2+ years of exp)
 
 ## 🚀 About Me
 
