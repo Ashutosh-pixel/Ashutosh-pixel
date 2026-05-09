@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Full-Stack Developer
+# Hi there 👋 I'm a Full-Stack Developer (2+ year of exp)
 
 ## 🚀 About Me
 
@@ -70,4 +70,4 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/ashushar
+* Gmail: ashushar222@gmail.com
